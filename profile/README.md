@@ -6,13 +6,13 @@
 
 ### 申请加入TransLibrary
 
-[MemberApply](github.com/TransDocumentLibrary/MemberApply)
+[MemberApply](https://github.com/TransDocumentLibrary/MemberApply)
 
 ***
 
 ### TransLibrary总目录
 
-[TransLibrary](github.com/TransDocumentLibrary/TransLibrary)
+[TransLibrary](https://github.com/TransDocumentLibrary/TransLibrary)
 
 ***
 
