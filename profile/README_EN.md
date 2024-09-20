@@ -1,7 +1,6 @@
 # TransLibrary-A orgnization that aim in help transgender and collect resources about trans/HRT
 
-[中文](github.com/TransDocumentLibrary/.github/blob/main/profile/README.md) | [English](github.com/TransDocumentLibrary/.github/blob/main/profile/README_EN)
-
+[中文](github.com/TransDocumentLibrary/.github/blob/main/profile/README.md) | English
 ***
 
 ### Apply to join TransLibrary
