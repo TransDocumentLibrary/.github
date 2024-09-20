@@ -1,6 +1,6 @@
 # TransLibrary-一个致力于帮助跨性别及收集有关跨性别/HRT相关资料的组织
 
-中文 | [English](github.com/TransDocumentLibrary/.github/blob/main/profile/README_EN)
+中文 | [English](README_EN.md)
 
 ***
 
